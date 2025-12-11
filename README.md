@@ -1,11 +1,21 @@
-# Supplementary Materials for Plaugher et. al., [Journal TBD], 2025
+# Supplementary Materials for Plaugher et. al., [Journal TBD], 2026
 
 This repository includes supplementary code, data, and figures used in the study:
 **"Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC"**[^1], published in [Journal Name], [Year].
 
 ## Contents
 
-`scripts/` – Analysis and plotting code (R, Python)
+`Cell Signaling/` - supplemental figures and results from CellChat and LIANA
+
+`Human NSCLC TILs/` - supplemental results from human TIL assays
+
+`Other Analysis/` - additional complementary analysis performed on the scRNAseq data or downstream results
+
+`Other Figures/` - additional supplemental figures
+
+`Stats/` - files and workbooks of statistical summaries 
+
+`scripts/` – Original analysis and plotting code (R, Python)
 > NOTE: These scripts were used for analysis purposes after data had been generated. Code for primary methods were created using respective vignettes, and therefore will not be included here, but will be available upon reasonable request. Please see references below for original methods and source code
 
 - CellChat (https://github.com/jinworks/CellChat)
@@ -15,13 +25,15 @@ This repository includes supplementary code, data, and figures used in the study
 - CollecTRI (https://github.com/saezlab/CollecTRI)
 - Monocle3 (https://cole-trapnell-lab.github.io/monocle3/docs/introduction/)
 
+`TF signaling/` - Raw outputs/results and supplemental figures for SCENIC, CollecTRI, and BITFAM
 
-`data/` – Supplementary datasets (processed or derived)
 
+## Data
+
+Supplementary datasets (processed or derived)
 - Large files can be found on our Zenodo repository (DOI: 10.5281/zenodo.15579657)
 - Sequencing data is on GEO (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233665)
 
- `figures/` – Supplementary or extended figures from the paper
 
 ## Licensing
 
