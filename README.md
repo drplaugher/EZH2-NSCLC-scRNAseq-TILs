@@ -1,7 +1,9 @@
 # Supplementary Materials for Plaugher et. al., [Journal TBD], 2026
 
 This repository includes supplementary code, data, and figures used in the study:
-**"Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC"**[^1], published in [Journal Name], [Year].
+**"EZH2 Inhibition Boosts Tumor Immunogenicity and TIL Reactivity in Lung Cancer**[^1]", published in [Journal Name], [Year].
+
+Formerly: **"Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC**[^2]"
 
 ## Contents
 
@@ -47,6 +49,11 @@ If you use this code or data, please cite the original paper [added upon final p
 > [Author Names]. *[Full Title of the Paper]*. [Journal Name], [Year]. DOI: [DOI link]
 
 
+
+
+
 ## bioRxiv version
 
 [^1]: 
+
+[^2]: https://www.biorxiv.org/content/10.1101/2025.07.12.663845v1
