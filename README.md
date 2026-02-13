@@ -9,7 +9,7 @@ Formerly: **"Single-cell profiling of EZH2-mediated immune signaling perturbatio
 
 `Cell Signaling/` - supplemental figures and results from CellChat and LIANA
 
-`Human NSCLC TILs/` - supplemental results from human TIL assays
+`Human TILs/` - supplemental results from human TIL assays
 
 `Other Analysis/` - additional complementary analysis performed on the scRNAseq data or downstream results
 
