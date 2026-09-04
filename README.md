@@ -49,7 +49,11 @@ If you use this code or data, please cite the original paper [added upon final p
 > [Author Names]. *[Full Title of the Paper]*. [Journal Name], [Year]. DOI: [DOI link]
 
 
+<br />
 
+NOTICE: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<br />
 
 
 ## bioRxiv version
@@ -57,3 +61,7 @@ If you use this code or data, please cite the original paper [added upon final p
 [^1]: 
 
 [^2]: https://www.biorxiv.org/content/10.1101/2025.07.12.663845v2
+
+
+
+
