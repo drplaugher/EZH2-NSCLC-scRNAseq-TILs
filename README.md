@@ -29,6 +29,19 @@ Formerly: **"Single-cell profiling of EZH2-mediated immune signaling perturbatio
 
 `TF signaling/` - Raw outputs/results and supplemental figures for SCENIC, CollecTRI, and BITFAM
 
+### Murine group labels
+
+Some older files may still use the original murine group labels. The table below maps those labels to their current equivalents and applies only to the murine groups.
+
+| Original label | Current label |
+| --- | --- |
+| `1_Jun-Lung_Control` | `Veh-PM` |
+| `2_Jun-Lung_GSK` | `EZH2i-PM` |
+| `4_Aug-Lung3_GSK` | `EZH2i-M` |
+| `6_Oct-Lung_Placebo` | `Veh-M` |
+
+`Veh` denotes vehicle control and `EZH2i` denotes treatment with the EZH2 inhibitor GSK126. `PM` and `M` denote premalignant and malignant, respectively. Human TIL files are appropriately labeled with `Veh` and `Val` - valemetostat 
+
 
 ## Data
 
